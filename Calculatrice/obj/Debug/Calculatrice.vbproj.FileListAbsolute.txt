@@ -1,0 +1,66 @@
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\bin\Debug\Calculatrice.xml
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\obj\Debug\Calculatrice.xml
+C:\Users\Simony\AppData\Local\Temporary Projects\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+C:\Users\Simony\Documents\Visual Studio 2012\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+G:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+G:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+G:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+G:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+G:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+G:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+G:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+G:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+G:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+G:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+H:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+H:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+H:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+H:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+H:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+H:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+H:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+H:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+H:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+H:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+F:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+F:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+F:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+F:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+E:\Junio\flash\FICHIER\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbprojAssemblyReference.cache
+D:\Jr Kab\Fichier\APP\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.CoreCompileInputs.cache
